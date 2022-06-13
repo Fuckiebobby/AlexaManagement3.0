@@ -88,15 +88,15 @@ PM_START_TEXT = """
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [CHANNEL](t.me/AsadSupport) - [SUPPORT](t.me/Shayri_Music_Lovers)
+✪ [CHANNEL](t.me/bobbyxworld) - [SUPPORT](t.me/aboutbobby)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[I'm Dr Asad Ali Project](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
-    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[Hahahahaha I'm Alexa!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/8b179dd176abda5b63912.jpg)",
+    "[I'm Dr Asad Ali Project](https://telegra.ph/file/3866935aa1b47f9b0f1a1.mp4)",
+    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/63a33b310fcb281c6eb00.jpg)",
+    "[Hahahahaha I'm Alexa!!!!](https://telegra.ph/file/a0346264268665927f17a.jpg)", )
 
 buttons = [
     [
